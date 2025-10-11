@@ -3,3 +3,8 @@ authors = []
 language = "en"
 src = "src"
 title = "KC-IT-Learning"
+description = "This book is for KC IT Learning"
+
+[output.html]
+git-repository-url = "https://github.com/KC-OU/KC-IT-Learning"
+git-repository-icon = "fa-github"
